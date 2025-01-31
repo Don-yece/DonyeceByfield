@@ -16,4 +16,4 @@
 🔹 [Project 2 - Machine Learning Model](#)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/donyece-byfield-0ab078194/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/donyece-byfield-0ab078194/))  
