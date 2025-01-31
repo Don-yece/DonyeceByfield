@@ -13,7 +13,4 @@
 
 ## 🚀 Current Projects  
 🔹 [Project 1 - Data Analysis with Pandas](#)  
-🔹 [Project 2 - Machine Learning Model](#)  
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/donyece-byfield-0ab078194/))  
+🔹 [Project 2 - Machine Learning Model](#)
